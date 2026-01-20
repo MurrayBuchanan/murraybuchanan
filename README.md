@@ -1,10 +1,14 @@
-## Hello Visitor! 👋
+## Hello, World!
 
-Welcome to my profile, I haven't got round to making my profile look good, but later you will see...
+Classic, amirite!?
 
-- I’m currently working on music, reading and coding
-- The projects I am investing most my time into at the moment relate to speech and language monitoring, ai and sports management
-- I am particularly experienced
-  -  Python and Java
-  -  Azure, AWS and GCS
-  -  React and Svelte
+Welcome to my profile.
+I’m Murray. I work mostly on infrastructure and large-scale systems. Over the last few years that’s meant a lot of time in AWS, Azure, and GCP, building and operating servers, storage, and networks that actually scale.
+
+I’ve worked with a range of tech stacks, but I’m mainly interested in solving problems that are genuinely useful.
+ 
+## Get involved
+
+**Contact:** Reach out if you have any questions or enquiries at contact@murrayb.com. \
+**Contributing to project development:** For access to organisation repos or custom UI libraries send me a request at request@murrayb.com.
+**Learn more:** More up-to-date information can be found on my [website](https://murrayb.com/)
