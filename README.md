@@ -1,17 +1,10 @@
-<!-- <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000" height="400" />
-</p> -->
+## Hello.
 
-<h1 align="center">Welcome to my profile.</h1>
+### Me
+Software engineer with experience across different tech stacks, mainly interested in building useful things and solving real problems. Always keen to learn and keep building.
 
-I’m Murray. I work mostly on infrastructure and large-scale systems. Over the last few years that’s meant a lot of time in AWS, Azure, and GCP, building and operating servers, storage, and networks that actually scale.
+### Get in touch
 
-I’ve worked with a range of tech stacks, but I’m mainly interested in solving problems that are genuinely useful.
- 
-<h3>Get Involved</h3>
-
-**Contact:** Reach out if you have any questions or enquiries at contact@murrayb.com. 
-
-**Contributing:** To access organisation repos or custom libraries send me a request at request@murrayb.com.
-
-**Learn more:** More up-to-date information can be found on my [website](https://murrayb.com/).
+[<img src="https://img.shields.io/badge/LinkedIn-21262D?style=for-the-badge" />](https://www.linkedin.com/in/murraycbuchanan/)&nbsp;
+[<img src="https://img.shields.io/badge/Email-21262D?style=for-the-badge" />](mailto:contact@murrayb.com)&nbsp;
+[<img src="https://img.shields.io/badge/Website-21262D?style=for-the-badge" />](https://murrayb.com/)
