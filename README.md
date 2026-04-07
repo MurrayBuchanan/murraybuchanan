@@ -1,6 +1,6 @@
 ## Hello.
 
-### Me
+### About me
 Software engineer with experience across different tech stacks, mainly interested in building useful things and solving real problems. Always keen to learn and keep building.
 
 ### Get in touch
