@@ -1,6 +1,8 @@
-<img alt="Metrics aren't showing — please let me know. Thanks!" src="https://raw.githubusercontent.com/MurrayBuchanan/MurrayBuchanan/main/github-metrics.svg" width="100%">
+<div align="center">
+  <img alt="Metrics aren't showing — please let me know. Thanks!" src="https://raw.githubusercontent.com/MurrayBuchanan/MurrayBuchanan/main/github-metrics.svg" width="80%">
+</div>
 
-<h3>About me</h3>
+<!-- <h3>About me</h3>
 
 Software engineer with experience across different tech stacks, mainly focused on building useful things and solving real problems.
 
@@ -10,4 +12,4 @@ My journey in tech has led me to work with various cutting-edge technologies and
 
 <a href="https://www.linkedin.com/in/murraycbuchanan/"><img src="https://img.shields.io/badge/LinkedIn-21262D?style=for-the-badge" /></a>&nbsp;
 <a href="mailto:contact@murrayb.com"><img src="https://img.shields.io/badge/Email-21262D?style=for-the-badge" /></a>&nbsp;
-<a href="https://murrayb.com/"><img src="https://img.shields.io/badge/Website-21262D?style=for-the-badge" /></a>
+<a href="https://murrayb.com/"><img src="https://img.shields.io/badge/Website-21262D?style=for-the-badge" /></a> -->
