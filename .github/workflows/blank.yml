@@ -32,7 +32,7 @@ jobs:
           base: header, activity, community, repositories, metadata
           base_indepth: true
           config_octicon: true
-          config_timezone: America/Chicago
+          config_timezone: Europe/London
           config_twemoji: true
           
           # Languages plugin
