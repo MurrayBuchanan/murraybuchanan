@@ -35,6 +35,7 @@ jobs:
           config_octicon: true
           config_timezone: Europe/London
           config_twemoji: true
+          repositories_affiliations: owner, collaborator, organization_member
           
           # Languages plugin
           plugin_languages: true
@@ -46,9 +47,9 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_other: true
           plugin_languages_recent_categories: markup, programming
-          plugin_languages_recent_days: 30
-          plugin_languages_recent_load: 300
-          plugin_languages_sections: most-used
+          plugin_languages_recent_days: 0
+          plugin_languages_recent_load: 1000
+          plugin_languages_sections: most-used, recently-used
           plugin_languages_threshold: 0%
           
           # Notable plugin
